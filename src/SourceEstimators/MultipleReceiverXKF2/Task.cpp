@@ -39,7 +39,7 @@
 
   namespace SourceEstimators
   {
-      namespace MultipleReceiverXKF
+      namespace MultipleReceiverXKF2
       {
         using DUNE_NAMESPACES;
 
